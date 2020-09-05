@@ -1,0 +1,9 @@
+.menu {
+	width: 300px;
+	height: 500px;
+    background-color: #666;
+    transition: all 0.3s;
+}
+.clicked .menu {
+	left: 8px;
+}
